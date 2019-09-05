@@ -61,7 +61,7 @@
    - 获得代码
 
      1. 将下面源码所列的四个文件放在一个文件夹中，按照提示运行程序迁移指定md文档或指定文件夹的所有md文档中的图片到云存储中。
-     2. 从[此仓库]()克隆代码下来到本地，`pip install -r requirements.txt`安装所有依赖库，按照提示运行程序。
+     2. 从[此仓库](https://github.com/hjx051013/picUploader)克隆代码下来到本地，`pip install -r requirements.txt`安装所有依赖库，按照提示运行程序。
 
    
    - 运行程序
