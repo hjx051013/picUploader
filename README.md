@@ -12,7 +12,7 @@
 
 2. 整体的代码流程
 
-   ![切换md图片流程图.png](批量迁移markdown文件图片到云存储中.assets/36031ec2c22a531e1496be21ee69974a.png)
+   ![切换md图片流程图.png](http://hjx-markdown-images.test.upcdn.net/2019/09/06/4a9e1b1bb6800b8179c51f2140f5b42b.png)
 
 3. 预备环境
 
